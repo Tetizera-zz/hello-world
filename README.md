@@ -1,4 +1,5 @@
 # hello-world
+RESOLUÇÃO ABAIXO
 
 Exemplo do código em Python
 
@@ -56,4 +57,8 @@ fibonacci(6) = 8
 
 fibonacci(7) = 13
 
-essa é a ideia que entendi da recursividade em Python, mas não entendi em Java.
+RESOLUÇÃO
+
+Eu sou burro. No segundo exemplo, só trocar return 1 para return n.
+
+grr reaction.
