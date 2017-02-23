@@ -39,3 +39,15 @@ Exemplo do código em Java que funciona
 		    }
 
 	    }
+
+Tanto no primeiro quanto no terceiro código, o output para fibonacci(5) =5.
+
+fibonacci(1) = 1
+fibonacci(2) = 1
+fibonacci(3) = 2
+fibonacci(4) = 3
+fibonacci(5) = 5
+fibonacci(6) = 8
+fibonacci(7) = 13
+
+essa é a ideia que entendi da recursividade em Python, mas não entendi em Java.
