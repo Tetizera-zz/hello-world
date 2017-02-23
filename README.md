@@ -9,3 +9,17 @@ Exemplo do código em Python
             return fibonacci(n-1) + fibonacci (n-2)
 
     print(fibonacci(5))
+
+Exemplo do mesmo código, em Java
+
+    static int fibonacci(int n)
+    {
+        if(n <= 1){
+            System.out.print(n);
+            return 1;
+        }
+        else{
+            System.out.print((fibonacci(n-1) + fibonacci(n-2)));
+            return ((fibonacci(n-1) + fibonacci(n-2)));
+        }
+    }
