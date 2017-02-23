@@ -23,3 +23,19 @@ Exemplo do mesmo código, em Java
             return ((fibonacci(n-1) + fibonacci(n-2)));
         }
     }
+
+Exemplo do código em Java que funciona
+
+    static int funcao_fibonacci(int n)
+	    {
+		    if(n ==1 || n == 2)
+            {
+			    return 1;
+		    }
+			
+		    else
+            {
+			    return ((funcao_fibonacci(n-1) + funcao_fibonacci(n-2)));
+		    }
+
+	    }
